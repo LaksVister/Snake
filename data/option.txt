@@ -1,0 +1,5 @@
+death_wall = True
+death_wall = True
+music = True
+sound = True
+fast_speed = False
